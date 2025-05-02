@@ -5,7 +5,7 @@
 - 📫 How to reach me ... Teams
 - ⚡ Fun fact: ... Me like cheese
 
-- If you find errors or would like to reuse anything for your own purposes, please feel free to contact me at Patrick.Carnevale@va.gov
+- If you find errors or would like to reuse anything for your own purposes, please feel free to contact me via MS Teams
 
 <!---
 Patrick-Carnevale/Patrick-Carnevale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
